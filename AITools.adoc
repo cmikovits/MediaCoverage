@@ -10,5 +10,22 @@
 | Simplified    | https://simplified.com       | Yes | € 72  | Graphics design, bideo, blogs, branding, social media| - | - | many usecases
 | Textmetrics   | https://www.textmetrics.com/ | Yes | ?     | Recruiters, Email, ... | - | - | no free plans
 | ProWritingAid | https://prowritingaid.com    | Yes | € 120 | Includes support for academic writing | Firefox, Google Docs, MS Office, Scrivener | sounds promising
-
+| ChatGPT       | https://chat.openai.com/     | Yes | € 240 | Research, AI writing, text generation | - | many plugins | - | mostly free, new GPT4 paid
+| Writecream    | https://www.writecream.com   | Yes | € 350 | Paraphrasing, rewriting, blogs | - | - | - | free version looks very limited
+| Quillbot      | https://quillbot.com/        | No  |       | Rewriting, Co-Writer, Citation Search, Translation | Chrome, Win, MacOS | - | very promising
+| DeepL         | https://www.deepl.com        | No  | € 85  | Paraphrasing, translation | Plugins, Windows, Anroid, iOS | - | well known and useful
+| Writesonic    | https://writesonic.com       | Yes | € 120 | Text generation, blogs, ads | - | ChatGPT | -
+| WordAI        | https://wordai.com/          | Yes | € 110 | Text generation, rewriting | - | - | no free use
+| ContentForge  | https://contentforge.ai/     | Yes | € 350 | Content Creator +with on click+ | - | - | free is very limited
+| HypotenuseAI  | https://www.hypotenuse.ai/   | Yes | € 244 | Article Writing and images | - | - | no free offer
+| ScaleNut      | https://www.scalenut.com     | Yes | € 240 | Content generation | - | - | no free offer
+| SurferSEO     | https://surferseo.com        | Yes | € 60  | Advertisment, products | - | - | relevance ?
+| SEO.ai        | https://seo.ai/              | Yes | € 350 | Search engine optimization | - | - | relevance ?
+| Ink AI        | https://inkforall.com/       | Yes | ?     | Search engine optimization | - | - | relevance ?
+| ProRankTrack  | https://proranktracker.com/  | Yes | ?     | Search engine optimization | - | - | relevance ?
+| Jasper        | https://www.jasper.ai        | Yes | ?     | Content creator, writing   | - | - | no free offer
+| Keywordtool   | https://keywordtool.io       | No  | ?     | Keyword suggetions for google | - | - | relevance ?
+| CanIRank      | https://www.canirank.com/    | ?   | ?     | Search engine optimization | - | - | relevance ?
+| DiiB          | https://diib.com/            | ?   | ?     | Search engine optimization | - | - | relevance ?
+ 
 |=== 
