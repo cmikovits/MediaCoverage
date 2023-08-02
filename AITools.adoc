@@ -1,0 +1,14 @@
+|===
+| Tool | Website | Registration | Yearly Costs | Purpose | Plugins | Alternatives | Comment
+
+| Grammarly     | https://www.grammarly.com/   | Yes | € 120 | Grammar, spelling, rewriting | Firefox, iOS, Android | LanguageTool | free version not very useful
+| Tome.app      | https://tome.app             | Yes | € 96  | Grammer, spelling, rewriting, focus on websites, sales & branding + images / logos | - | - | not so relevant for science?
+| Rytr          | https://rytr.me              | Yes | € 90  | Focus on AI text generation for blogs, email, websites, twitter | - | - | relevance?
+| Copy.ai       | https://www.copy.ai/         | Yes | € 432 | Email, blogs, marketing | - | - | relevance + pricey
+| Anyword       | https://anyword.com/         | Yes | € 468 | Ads, marketing, sales | - | - | relevance + pricey
+| Wordtune      | https://www.wordtune.com/    | Yes | € 120 | Rewrite phrases, summaries | - | - | free plan very limited
+| Simplified    | https://simplified.com       | Yes | € 72  | Graphics design, bideo, blogs, branding, social media| - | - | many usecases
+| Textmetrics   | https://www.textmetrics.com/ | Yes | ?     | Recruiters, Email, ... | - | - | no free plans
+| ProWritingAid | https://prowritingaid.com    | Yes | € 120 | Includes support for academic writing | Firefox, Google Docs, MS Office, Scrivener | sounds promising
+
+|=== 
