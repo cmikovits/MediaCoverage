@@ -11,7 +11,7 @@
 | Textmetrics   | https://www.textmetrics.com/ | Yes | ?     | Recruiters, Email, ... | - | - | no free plans
 | ProWritingAid | https://prowritingaid.com    | Yes | € 120 | Includes support for academic writing | Firefox, Google Docs, MS Office, Scrivener | sounds promising
 | ChatGPT       | https://chat.openai.com/     | Yes | € 240 | Research, AI writing, text generation | - | many plugins | - | mostly free, new GPT4 paid
-| Writecream    | https://www.writecream.com   | Yes | € 350 | Paraphrasing, rewriting, blogs | - | - | - | free version looks very limited
+| Writecream    | https://www.writecream.com   | Yes | € 350 | Paraphrasing, rewriting, blogs | - | - | free version looks very limited
 | Quillbot      | https://quillbot.com/        | No  |       | Rewriting, Co-Writer, Citation Search, Translation | Chrome, Win, MacOS | - | very promising
 | DeepL         | https://www.deepl.com        | No  | € 85  | Paraphrasing, translation | Plugins, Windows, Anroid, iOS | - | well known and useful
 | Writesonic    | https://writesonic.com       | Yes | € 120 | Text generation, blogs, ads | - | ChatGPT | -
