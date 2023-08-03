@@ -1,4 +1,5 @@
 |===
+
 | Tool | Website | Registration | Yearly Costs | Purpose | Plugins | Alternatives | Comment
 
 | Grammarly     | https://www.grammarly.com/   | Yes | € 120 | Grammar, spelling, rewriting | Firefox, iOS, Android | LanguageTool | free version not very useful
